@@ -1,0 +1,54 @@
+testimonials:
+  - avatar: /images/admin/avatar1.png
+    name: Ilham
+    message: >-
+      Furniture dari creativedesigninterior.com sangat membantu untuk proyek
+      interior saya. Pengiriman tepat waktu dan kualitasnya sesuai harapan.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
+      kebutuhan furniture Anda kepada kami!
+    rating: 5
+  - avatar: /images/admin/avatar2.png
+    name: Sinta
+    message: >-
+      Creativedesigninterior.com sangat membantu dalam proyek kafe saya. Layanan
+      mereka profesional, dan kualitas furniture sesuai dengan kebutuhan.
+    response: >-
+      Terima kasih atas kepercayaannya. Kami akan terus memberikan pelayanan
+      terbaik!
+    rating: 5
+  - avatar: /images/admin/avatar3.png
+    name: Toni
+    message: >-
+      Layanan penjualan furniture dari creativedesigninterior.com sangat
+      terpercaya untuk proyek kafe saya. Timnya cepat tanggap dan pengirimannya
+      cepat.
+    response: Senang dapat melayani proyek Anda. Terima kasih atas kepercayaannya!
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Toni
+    message: >-
+      Saya sangat puas dengan layanan furniture dari creativedesigninterior.com.
+      Prosesnya mudah dan mempercepat pengerjaan proyek saya.
+    response: >-
+      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
+      kepercayaannya dalam menggunakan layanan kami.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Lina
+    message: >-
+      creativedesigninterior.com memberikan solusi tepat untuk proyek saya.
+      Produk yang saya beli bagus, dan layanannya ramah.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      produk interior terbaik.
+    rating: 5
+  - avatar: /images/admin/avatar6.png
+    name: Reza
+    message: >-
+      Saya memesan furniture untuk proyek bangunan, dan hasilnya luar biasa.
+      Layanan creativedesigninterior.com terpercaya.
+    response: >-
+      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
+      atas ulasannya!
+    rating: 5
